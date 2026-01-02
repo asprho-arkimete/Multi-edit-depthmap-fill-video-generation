@@ -1,0 +1,5 @@
+fill: https://civitai.com/models/978482/agfluxfillnsfwfp8
+flux :https://civitai.com/models/808669/flux-dev2pro-fp8-special-use-for-training-flux-lora
+flux : https://civitai.com/models/847101/fluxed-up-flux-nsfw-checkpoint
+flux or flux inpainting: https://civitai.com/models/1111934/flux-uncensored-female-and-male-nudity
+sd 1.5 inpainting controlnet : https://civitai.com/models/1031355/pornmaster-pro-asianv2-fix-inpainting
