@@ -1,0 +1,1 @@
+un modello che tramite un lora depthmap collegato con kontext riesce a calcolare posa e profondita, di un oggetto o character, contiene anche la funzione fill, inpainting, di sd e flux, e differenti collegamenti a servizi freen Nano bananna e Image to video
